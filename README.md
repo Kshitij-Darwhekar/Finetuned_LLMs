@@ -1,4 +1,4 @@
-# Finetuned_LLMs
+# Finetuning LLMs using [Unsloth](https://github.com/unslothai/unsloth)
 This repository contains fine tuned LLMs for my own use.
 
 Link to the model : https://huggingface.co/HorizoniX/model
